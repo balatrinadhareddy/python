@@ -1,0 +1,6 @@
+a=int(input("enter a number"))
+x=lambda a:a%2
+if x(a)==0:
+	print("even")
+else:
+	print("odd")	
