@@ -1,0 +1,7 @@
+class student:
+	def __init__(self):
+		self.name="Tiru"
+		self.age=18
+s1= student()
+print("name: {}".format(s1.name))
+print("age: {}".format(s1.age))		
